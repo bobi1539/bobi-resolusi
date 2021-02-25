@@ -3,6 +3,8 @@ RENCANA KONTEN WPU
 - Javascript
   * ES6
   * Framework javascript
-- fundamental struktur data
+    - angluar
+    - react
 - php frame work
+  * laravel
 - vlog
